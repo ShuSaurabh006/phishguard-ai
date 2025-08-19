@@ -1,0 +1,20 @@
+From: alert@paypal-security.com
+Subject: URGENT: Your PayPal Account Has Been Limited
+
+Dear PayPal User,
+
+We have detected unusual activity on your PayPal account and have temporarily limited access for your protection.
+
+Your account will be PERMANENTLY SUSPENDED in 24 hours unless you verify your identity immediately.
+
+CLICK HERE TO VERIFY NOW: http://paypal-verify-secure.tk/login
+
+Failure to verify will result in:
+- Account closure
+- Loss of funds
+- Legal action
+
+This is your FINAL WARNING. Act now to avoid permanent suspension.
+
+PayPal Security Team
+This is an automated message. Do not reply.

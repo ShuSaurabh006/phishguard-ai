@@ -1,0 +1,14 @@
+From: security@bank-alert.com
+Subject: URGENT: Account Suspended - Verify Now
+
+Dear Customer,
+
+Your account has been suspended due to suspicious activity!
+
+You must verify your account IMMEDIATELY or it will be closed forever.
+
+Click here to verify: http://fake-bank-verify.com/urgent
+
+This message will expire in 2 hours.
+
+Security Team
