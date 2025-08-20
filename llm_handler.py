@@ -4,10 +4,7 @@ class SimpleLLM:
     def __init__(self):
         print("Using FREE rule-based AI detection")
         
-        self.phishing_keywords = [
-            "urgent", "immediately", "suspended", "verify", "confirm",
-            "click here", "act now", "expires", "limited time"
-        ]
+        self.phishing_keywords = ["urgent", "immediately", "suspended", "verify", "confirm", "click here", "act now", "expires", "limited time"]
     
     def analyze_email(self, email_content):
         email_lower = email_content.lower()
